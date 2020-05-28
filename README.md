@@ -2,7 +2,7 @@
 
 Space invaders v2.0
 
-This is a 2-D space invasion game.
+This is a 2-D space invasion game using Pygame for the game rendering and PySimpleGUI for the gui
 
 Features:
 
@@ -27,3 +27,14 @@ Screenshots:
 ![Settings Window](https://raw.github.com/chandradharrao/Space-invaders/master/gameover.png)
 
 ![Settings Window](https://raw.github.com/chandradharrao/Space-invaders/master/quit.png)
+
+Gifs:
+
+![Settings Window](https://raw.github.com/chandradharrao/Space-invaders/master/gif1.gif)
+
+![Settings Window](https://raw.github.com/chandradharrao/Space-invaders/master/gif2.gif)
+
+![Settings Window](https://raw.github.com/chandradharrao/Space-invaders/master/gif3.gif)
+
+![Settings Window](https://raw.github.com/chandradharrao/Space-invaders/master/gif4.gif)
+

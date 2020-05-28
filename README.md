@@ -18,7 +18,7 @@ Features:
 
 Screenshots:
 
-![image](https://raw.githubusercontent.com/chandradharrao/Spance-invaders/master/menu.png)
+![Image of Menu](https://chandradharrao.github.com/images/menu.png)
 
 ![image](https://raw.githubusercontent.com/chandradharrao/Spance-invaders/master/gameplay.png)
 

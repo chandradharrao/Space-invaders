@@ -18,7 +18,7 @@ Features:
 
 Screenshots:
 
-![Image of Menu](https://chandradharrao.github.com/images/menu.png)
+![Settings Window](https://raw.github.com/chandradharrao/Space-invaders/master/menu.png)
 
 ![image](https://raw.githubusercontent.com/chandradharrao/Spance-invaders/master/gameplay.png)
 

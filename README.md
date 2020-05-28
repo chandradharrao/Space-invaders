@@ -38,3 +38,7 @@ Gifs:
 
 ![Settings Window](https://raw.github.com/chandradharrao/Space-invaders/master/gif4.gif)
 
+To Download:
+
+Download the dist folder into your windows pc and run the SPACE INVADERS.exe from that folder itself as it has its assets in the very same folder.
+

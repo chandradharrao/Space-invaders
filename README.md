@@ -18,12 +18,12 @@ Features:
 
 Screenshots:
 
-![image](https://raw.githubusercontent.com/chandradharrao/Sorting-Spance-invaders/master/menu.png)
+![image](https://raw.githubusercontent.com/chandradharrao/Spance-invaders/master/menu.png)
 
-![image](https://raw.githubusercontent.com/chandradharrao/Sorting-Spance-invaders/master/gameplay.png)
+![image](https://raw.githubusercontent.com/chandradharrao/Spance-invaders/master/gameplay.png)
 
-![image](https://raw.githubusercontent.com/chandradharrao/Sorting-Spance-invaders/master/pause.png)
+![image](https://raw.githubusercontent.com/chandradharrao/Spance-invaders/master/pause.png)
 
-![image](https://raw.githubusercontent.com/chandradharrao/Sorting-Spance-invaders/master/gameover.png)
+![image](https://raw.githubusercontent.com/chandradharrao/Spance-invaders/master/gameover.png)
 
-![image](https://raw.githubusercontent.com/chandradharrao/Sorting-Spance-invaders/master/quit.png)
+![image](https://raw.githubusercontent.com/chandradharrao/Spance-invaders/master/quit.png)

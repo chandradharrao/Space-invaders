@@ -20,10 +20,10 @@ Screenshots:
 
 ![Settings Window](https://raw.github.com/chandradharrao/Space-invaders/master/menu.png)
 
-![image](https://raw.githubusercontent.com/chandradharrao/Spance-invaders/master/gameplay.png)
+![Settings Window](https://raw.github.com/chandradharrao/Space-invaders/master/gameplay.png)
 
-![image](https://raw.githubusercontent.com/chandradharrao/Spance-invaders/master/pause.png)
+![Settings Window](https://raw.github.com/chandradharrao/Space-invaders/master/pause.png)
 
-![image](https://raw.githubusercontent.com/chandradharrao/Spance-invaders/master/gameover.png)
+![Settings Window](https://raw.github.com/chandradharrao/Space-invaders/master/gameover.png)
 
-![image](https://raw.githubusercontent.com/chandradharrao/Spance-invaders/master/quit.png)
+![Settings Window](https://raw.github.com/chandradharrao/Space-invaders/master/quit.png)
